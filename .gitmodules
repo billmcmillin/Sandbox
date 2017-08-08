@@ -1,6 +1,3 @@
-[submodule "es"]
-	path = es
-	url = https://github.com/DLFMetadataAssessment/EnvironmentalScan.git
 [submodule "MetadataSpecsClearinghouse"]
 	path = MetadataSpecsClearinghouse
 	url = https://github.com/DLFMetadataAssessment/MetadataSpecsClearinghouse.git
