@@ -12,7 +12,8 @@ kramdown:
   input: GFM
 relative_permalinks: false
 collections:
-- entries
+  EnvironmentalScan:
+    output: true
 sass:
   sass_dir: _sass
   style: :compressed
